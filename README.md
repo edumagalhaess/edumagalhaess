@@ -1,7 +1,10 @@
-### 
-# 👨‍💻 HELLO WORLD!
+
+ ![banner](https://github.com/user-attachments/assets/099d04cc-0d5a-4629-a584-be5df6991448) 
+
+
+# 👨‍💻 HELLO, WORLD!
 Sou o Eduardo, programador Front-End que ama trabalhar com tecnologia.
-Tô sempre buscando evoluir, aprender coisas novas e superar meus próprios limites.
+Estou sempre buscando evoluir, aprender coisas novas e superar meus próprios limites.
 No momento, estou focado em projetos com HTML, CSS e JavaScript.
 
 

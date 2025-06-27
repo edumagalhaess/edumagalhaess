@@ -2,7 +2,7 @@
 ![Banner](https://github.com/user-attachments/assets/8f6f0b9b-5108-4a40-b273-b7375d8a91c2)
 
 
-# 👨‍💻 HELLO, WORLD!
+# 🌎 HELLO, WORLD!
 Sou o **Eduardo**, programador full-Stack que ama trabalhar com tecnologia.  
 Estou sempre buscando evoluir, aprender coisas novas e crescer profissionalmente.
 No momento, estou focado em projetos com **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Express** e **MongoDB**.
